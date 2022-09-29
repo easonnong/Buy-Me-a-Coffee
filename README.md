@@ -32,3 +32,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+package:
+yarn add moralis react-moralis
+yarn add react-icon react-spinners react-simple-hook-modal
+yarn add @walletconnect/web3-provider @web3auth/web3auth ethers
+yarn add magic-sdk moment web3uikit
