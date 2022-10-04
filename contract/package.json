@@ -1,4 +1,5 @@
 {
+  "license": "MIT",
   "devDependencies": {
     "@ethersproject/providers": "^5.4.7",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
